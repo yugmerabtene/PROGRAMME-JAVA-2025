@@ -49,7 +49,7 @@ Chaque élément de logique métier doit être unique dans le code.
 
 ## 3. Design Patterns (Patrons de conception)
 
-Les Design Patterns sont des solutions standardisées à des problèmes récurrents en conception logicielle (Toujours se refer a ce site : https://refactoring.guru).
+Les Design Patterns sont des solutions standardisées à des problèmes récurrents en conception logicielle (Toujours se referer a ce site : https://refactoring.guru).
 
 ### 3.1 Patterns de création
 
